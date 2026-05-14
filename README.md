@@ -13,5 +13,5 @@
 - 
 ## 📫 Contato
 - GitHub: github.com/VitorSP16
--Tel:17992042799
-email:vsantospizolato@gmail.com
+- -Tel:17992042799
+- email:vsantospizolato@gmail.com
