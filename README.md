@@ -20,7 +20,7 @@ Atualmente procuro uma oportunidade de estágio ou trabalho de meio período no 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📫 Contato
-![Stats](https://github-readme-stats.vercel.app/api?username=VitorSP16&show_icons=true&theme=radical)
+-Github VitorSP16
 - -Tel:17992042799
 - email:vsantospizolato@gmail.com
 - Linkedin:www.linkedin.com/in/vitor-s-54b857360/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FVo7dP2lQvGjK4dIzwP0YA%3D%3D
