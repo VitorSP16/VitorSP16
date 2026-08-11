@@ -15,10 +15,9 @@ Atualmente estudo na ETEC Prof. Armando José Farinazzo, cursando Ensino Médio 
 ## 🎯 Objetivo
 Atualmente procuro uma oportunidade de estágio ou trabalho de meio período no período da manhã para ganhar experiência profissional e crescer na área da tecnologia.
 
-## 🚀 Atualmente aprendendo
-- HTML
-- CSS
-- GitHub
+## 🛠️ Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📫 Contato
 - GitHub: github.com/VitorSP16
