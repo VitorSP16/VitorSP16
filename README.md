@@ -46,19 +46,6 @@ Moro em **Fernandópolis, São Paulo - Brasil** e estudo na **ETEC Prof. Armando
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorSP16&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=VitorSP16&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSP16&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### 📌 Projetos em destaque
 
 #### 🔗 [Etecfer](https://github.com/VitorSP16/Etecfer_Infonet2Mtec)
